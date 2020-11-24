@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "来一篇"
+date:   2020-11-19 22:06:53 +0800
+categories: blog
+---
+
+adf
+```js
+var abc=234;
+console.log(1234);
+```
+
